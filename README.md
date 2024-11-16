@@ -1,5 +1,5 @@
-# Design-Implementation-of-1-Bit-Full-Adder-using-Cadence-Tools
-Ex No: 04     Design & Implementation of 1 Bit Full Adder Using Cadence EDA Tools   
+# Design-Implementation-of-Binary-Adder-using-Cadence-Tools
+Ex No: 05   Design & Implementation of Binary Adder Using Cadence EDA Tools   
 
 Aim:
 To design and implement a 1-bit full adder circuit using Cadence EDA tools and to understand its behavior in digital arithmetic operations.
@@ -66,7 +66,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![IMG-20241019-WA0035](https://github.com/user-attachments/assets/dc5f18cf-8e4a-4970-a9bd-ced5c15fcfd9)
+ ![WhatsApp Image 2024-11-16 at 11 34 07_fc1700f7](https://github.com/user-attachments/assets/4d2c6436-fcd2-4b21-ac60-4cf203196989)
+
 
 
 
@@ -99,10 +100,7 @@ Analog simulation by SPECTRE.
 
 For Transient Analysis Settings and Output
  
-![IMG-20241019-WA0040](https://github.com/user-attachments/assets/384f880f-a1e4-4afa-8302-d7667c2f535b)
-
-
- 
+![image](https://github.com/user-attachments/assets/38a7cebc-1f4d-4424-acbe-0123b382a087)
 
 Results:
 The design and implementation of the 1-bit full adder using Cadence EDA tools were successfully completed. The simulation results verified the correct operation of the full adder, with accurate sum and carry outputs for all input combinations.
